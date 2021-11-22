@@ -1,0 +1,14 @@
+$default-color:rgb(224, 224, 224);
+$warning-color:rgb(245, 146, 62);
+$gray-color:rgb(133, 134, 148);
+
+
+.default{
+    background-color: $default-color;
+}
+.warning{
+    background-color: $warning-color;
+}
+.gray{
+    background-color: $gray-color;
+}
