@@ -42,6 +42,7 @@ function App()
         
         return s
     }
+    console.log(data)
     return(
         <>
             <input value={data} onChange={()=>setData(data)} className={clsx(styles.display)}/>
